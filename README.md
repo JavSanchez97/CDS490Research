@@ -6,3 +6,5 @@ The files here contain my steps through this project to try and find the most en
 Creating the pie plot did cause some confusion as it had too many products, so I then decided to narrow it down to vegan and non-vegan items to compare them against eachother. Here, it is easeier to tell which products create the biggest CO2 emissions per-category.
 
 Lastly, I got a different dataset that contains data on the consumption of these foods and which cause the most CO2 and I created a ridge-plot in order to see which items create the most CO2 and visualize it in a way to easily compare to other items.
+
+Working Hypothesis: My hypothesis is that in general, meat is the worst option for the environment in terms of CO2 and changing to a all/mostly meat free diet will be the best way to reduce our emissions as consumers as well as farmers. 
