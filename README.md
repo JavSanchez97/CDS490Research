@@ -28,8 +28,8 @@ Working Hypothesis: My hypothesis is that in general, meat is the worst option f
 With what I have now, I have come with some preliminary results on which types of foods and food products are best to reduce CO2 or water (based on Kcalorie or protein needs):
 
 CO2 Reduction:
-  1.Non-Vegan: If you want to continue eating meat, the best option is to avoid eating any forms of beef, including milk or cheese. Lamb/Mutton are also quite hazerdous in terms of CO2 emissions
-  2.Vegan: This option is much safer as only a fraction of these products go above any non-vegan.
+  1. Non-Vegan: If you want to continue eating meat, the best option is to avoid eating any forms of beef, including milk or cheese. Lamb/Mutton are also quite hazerdous in terms of CO2 emissions
+  2. Vegan: This option is much safer as only a fraction of these products go above any non-vegan.
 
 Water Reduction:
   1. 1000Kcal needed: For this section, chicken did the best in terms of water needed and emissions produced in the process. The best option for a vegan diet was oatmeal, potatoes, and root vegetables. However if water was not as much of concern, then there are other options that produce less emissions.
