@@ -6,11 +6,32 @@ There are two datasets that I have used to work on my prototypes for my project 
 
 The second data set contains information on what countries citizen's ate wiht information such as Kg of food per person per year. It also contains the total of CO2 in KG/year/person as well as Kg of CO2/person/year.
 
+# The Methods
+I have used simple plots in descending order. This is to help show which food product produces the most emissions based on factors such as Land or total emissions. I also sectioned the line graph when viewing total emissions to know what makes up the total. There is also an added vertical line in order to know where the average stands. 
 
-The files here contain my steps through this project to try and find the most environmentally friendly food source. First I am trying to find which food source from the first dataset is the most dangerous to the environment in terms of CO2 production involved by how much land is used. Next, I worked on created a line plot that uses the first 8 columns in order to see which categories create the most CO2 for each product. Lastly, I created a pieplot in order to see total emissions created and to better visualize which causet the most problems.
+The next method is a pie chart. Here, I created 3:
+  1. All food products
+  2. Vegan
+  3. Non-Vegan(named meat for simplicity)
+This was added in order to better see the impacts depending on your diet.
 
-Creating the pie plot did cause some confusion as it had too many products, so I then decided to narrow it down to vegan and non-vegan items to compare them against eachother. Here, it is easeier to tell which products create the biggest CO2 emissions per-category.
+Next, I added a ridge plot using the new dataset. This was creted in order to better visualize the CO2 emissions distributed throughout all the countries in the data.
 
-Lastly, I got a different dataset that contains data on the consumption of these foods and which cause the most CO2 and I created a ridge-plot in order to see which items create the most CO2 and visualize it in a way to easily compare to other items.
+The final method I used for this was an interactive scatterplot that gives exact details when hovered over. Two of these were created:
+  1. This was to visualize the amount of water needed (in Liters) per 1000Kcalories.
+  2. This one was to visualize water (in Liters) needed for 100g of protein.
+Both of these have a legend to seperate the two types of food(vegan/non-vegan).
 
-Working Hypothesis: My hypothesis is that in general, meat is the worst option for the environment in terms of CO2 and changing to a all/mostly meat free diet will be the best way to reduce our emissions as consumers as well as farmers. 
+# Hypothesis & Preliminary results
+Working Hypothesis: My hypothesis is that in general, meat is the worst option for the environment in terms of CO2 and changing to a all/mostly meat free diet will be the best way to reduce our emissions and respect the environment more as consumers as well as farmers. 
+
+With what I have now, I have come with some preliminary results on which types of foods and food products are best to reduce CO2 or water (based on Kcalorie or protein needs):
+
+CO2 Reduction:
+  1.Non-Vegan: If you want to continue eating meat, the best option is to avoid eating any forms of beef, including milk or cheese. Lamb/Mutton are also quite hazerdous in terms of CO2 emissions
+  2.Vegan: This option is much safer as only a fraction of these products go above any non-vegan.
+
+Water Reduction:
+  1. 1000Kcal needed: For this section, chicken did the best in terms of water needed and emissions produced in the process. The best option for a vegan diet was oatmeal, potatoes, and root vegetables. However if water was not as much of concern, then there are other options that produce less emissions.
+  2. 100g Protein needed: Again, Chicken reigns supreme here as well as keeping low emissions. The vegan diet, however, had a much harder time beating chicken in terms of water use. This is most likely due to more of these products needed in order to reach this 100g goal. The best ones here were the same three as above, however this time there are 9 that are above poultry in terms of water use instead of 6.
+
