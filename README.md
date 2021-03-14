@@ -22,6 +22,8 @@ The final method I used for this was an interactive scatterplot that gives exact
   2. This one was to visualize water (in Liters) needed for 100g of protein.
 Both of these have a legend to seperate the two types of food(vegan/non-vegan).
 
+At the end, I found a dataset in order to find out how much CO2 is released per Km. Then I did the math in order to see how many miles and for how many years you can drive until you produced as many emissions as a Cow, which the answer may be a shock.
+
 # Hypothesis & Preliminary results
 Working Hypothesis: My hypothesis is that in general, meat is the worst option for the environment in terms of CO2 and changing to a all/mostly meat free diet will be the best way to reduce our emissions and respect the environment more as consumers as well as farmers. 
 
